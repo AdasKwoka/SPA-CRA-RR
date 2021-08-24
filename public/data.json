@@ -1,0 +1,57 @@
+{
+  "menu": [
+    {
+      "id": 0,
+      "name": "pierogi ruskie",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque sapiente, dolor tempora laudantium ipsa sunt doloremque totam a culpa repellendus, error ab iusto voluptates. Perferendis iure cum adipisci reiciendis ullam!",
+      "price": 15.5
+    },
+    {
+      "id": 1,
+      "name": "pierogi ze szpinakiem",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque sapiente, dolor tempora laudantium ipsa sunt doloremque totam a culpa repellendus, error ab iusto voluptates. Perferendis iure cum adipisci reiciendis ullam!",
+      "price": 17,
+      "src": "img1"
+    },
+    {
+      "id": 2,
+      "name": "Spaghetti bolognese",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque sapiente, dolor tempora laudantium ipsa sunt doloremque totam a culpa repellendus, error ab iusto voluptates. Perferendis iure cum adipisci reiciendis ullam!",
+      "price": 25,
+      "src": "img1"
+
+    },
+    {
+      "id": 3,
+      "name": "Pizza hawajska",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque sapiente, dolor tempora laudantium ipsa sunt doloremque totam a culpa repellendus, error ab iusto voluptates. Perferendis iure cum adipisci reiciendis ullam!",
+      "price": 16.9,
+      "src": "img1"
+
+    },
+    {
+      "id": 4,
+      "name": "Zupa wodna",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque sapiente, dolor tempora laudantium ipsa sunt doloremque totam a culpa repellendus, error ab iusto voluptates. Perferendis iure cum adipisci reiciendis ullam!",
+      "price": 22.8,
+      "src": "img1"
+
+    },
+    {
+      "id": 5,
+      "name": "Kapusta z grochem",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque sapiente, dolor tempora laudantium ipsa sunt doloremque totam a culpa repellendus, error ab iusto voluptates. Perferendis iure cum adipisci reiciendis ullam!",
+      "price": 26.7,
+      "src": "img1"
+
+    },
+    {
+      "id": 6,
+      "name": "Kapuśniaczki",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque sapiente, dolor tempora laudantium ipsa sunt doloremque totam a culpa repellendus, error ab iusto voluptates. Perferendis iure cum adipisci reiciendis ullam!",
+      "price": 18.5,
+      "src": "img1"
+
+    }
+  ]
+}

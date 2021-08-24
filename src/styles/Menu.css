@@ -1,0 +1,75 @@
+.menu {
+  width: 100%;
+}
+.menu-list {
+  list-style: none;
+}
+
+.menu-item {
+  width: 80%;
+  margin: 20px auto 0;
+  padding: 10px;
+  text-align: center;
+  border-bottom: 1px solid #000;
+}
+
+.menu-item:first-child {
+  border-top: 1px solid #000;;
+}
+
+.menu-item:last-child {
+  border-bottom: none;
+}
+
+.title-item {
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.content-item {
+  font-size: 1.2rem;
+  text-align: justify;
+  margin-bottom: 5px;
+}
+
+.price-item {
+  font-weight: bold;
+  font-size: 1.1rem;
+  font-style: italic;
+}
+
+.button-item {
+  display: block;
+  width: 50%;
+  margin: 5% auto 0;
+  padding: 5px 10px;
+  border: 2px solid black;
+  color: #000;
+  text-decoration: none;
+  font-size: 1.3rem;
+}
+
+@media (min-width: 1024px) {
+  .menu-item {
+    width: 60%;
+    margin: 30px auto 0;
+    padding: 15px;
+  }
+
+  .price-item {
+    margin-top: 5%;
+    font-size: 1.3rem;
+  }
+
+  .button-item {
+    width: 30%;
+    padding: 10px 15px;
+    border: 3px solid black;
+    font-weight: bold;
+  }
+
+  .button-item:hover {
+    background-color: #000;
+    color: #fff;
+  }
+}

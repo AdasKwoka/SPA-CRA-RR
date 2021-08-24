@@ -1,0 +1,70 @@
+.catering {
+  width: 100%;
+}
+.catering-sub {
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 10%;
+  padding: 10px;
+}
+
+.catering-description {
+  width: 90%;
+  margin: 0 auto 5%;
+  text-align: justify;
+  font-size: 1.4rem;
+}
+
+.catering-img {
+  position: relative;
+  height: 50vh;
+  overflow: hidden;
+}
+
+.catering-img img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  transform: translate(-50%, -50%) scale(.7);
+}
+
+@media (min-width: 360px) {
+  .catering-img img {
+    transform: translate(-50%,-50%) scale(1);
+  }
+}
+
+@media (min-width:533px) and (orientation: landscape) {
+  .catering-img {
+    height: 80vh;
+    width: 80%;
+    margin: 0 auto;
+  }
+}
+
+@media (min-width: 1024px){
+  .catering-sub {
+    margin: 5% 0 1%;
+    padding: 0;
+  }
+  
+  .catering-description {
+    width: 60%;
+    margin: 0 auto 5%;
+  }
+  
+  .catering-img {
+    position: relative;
+    height: 50vh;
+    width: 70%;
+    box-shadow: 10px -10px 5px gray;
+  }
+}
+
+@media (min-width: 1600px) {
+  .catering-img {
+    width: 60%;
+  }
+}

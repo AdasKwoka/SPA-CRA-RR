@@ -1,0 +1,33 @@
+.menu-layout {
+  background-image: url('../images/menu-small.jpg'); 
+}
+
+.contact-layout {
+  background-image: url('../images/contact-small.jpg'); 
+}
+
+.catering-layout {
+  background-image: url('../images/catering-small.jpg'); 
+}
+
+.gallery-layout {
+  background-image: url('../images/gallery-small.jpg'); 
+}
+
+@media (min-width: 1024px) {
+  .menu-layout {
+    background-image: url('../images/menu-big.jpg'); 
+  }
+  
+  .contact-layout {
+    background-image: url('../images/contact-big.jpg'); 
+  }
+  
+  .catering-layout {
+    background-image: url('../images/catering-big.jpg'); 
+  }
+  
+  .gallery-layout {
+    background-image: url('../images/gallery-big.jpg'); 
+  }
+}

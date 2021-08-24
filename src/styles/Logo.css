@@ -1,0 +1,26 @@
+.logo-main {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 30vh;
+  text-align: center;
+  background-color: #4078c0;
+  padding: 10px;
+}
+
+.logo-main img{
+  max-width: 100%;
+  max-height: 100%;
+}
+
+@media (min-width: 1024px) {
+  .logo-main{
+    position: absolute;
+    margin-top: 10vh;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    background-color: transparent;
+    z-index: 1;
+  }
+}
