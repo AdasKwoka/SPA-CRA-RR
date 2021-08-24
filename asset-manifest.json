@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/SPA-CRA-RR/static/css/main.f6b4e5c0.chunk.css",
+    "main.js": "/SPA-CRA-RR/static/js/main.f08e84bc.chunk.js",
+    "main.js.map": "/SPA-CRA-RR/static/js/main.f08e84bc.chunk.js.map",
+    "runtime-main.js": "/SPA-CRA-RR/static/js/runtime-main.d38fb6fa.js",
+    "runtime-main.js.map": "/SPA-CRA-RR/static/js/runtime-main.d38fb6fa.js.map",
+    "static/js/2.c49e51d8.chunk.js": "/SPA-CRA-RR/static/js/2.c49e51d8.chunk.js",
+    "static/js/2.c49e51d8.chunk.js.map": "/SPA-CRA-RR/static/js/2.c49e51d8.chunk.js.map",
+    "index.html": "/SPA-CRA-RR/index.html",
+    "static/css/main.f6b4e5c0.chunk.css.map": "/SPA-CRA-RR/static/css/main.f6b4e5c0.chunk.css.map",
+    "static/js/2.c49e51d8.chunk.js.LICENSE.txt": "/SPA-CRA-RR/static/js/2.c49e51d8.chunk.js.LICENSE.txt",
+    "static/media/Layouts.css": "/SPA-CRA-RR/static/media/menu-small.19c7e826.jpg",
+    "static/media/event_0.39dc4eb1.jpg": "/SPA-CRA-RR/static/media/event_0.39dc4eb1.jpg",
+    "static/media/event_1.d226bfb2.jpg": "/SPA-CRA-RR/static/media/event_1.d226bfb2.jpg",
+    "static/media/event_2.1a8bc912.jpg": "/SPA-CRA-RR/static/media/event_2.1a8bc912.jpg",
+    "static/media/food_0.2632276e.jpg": "/SPA-CRA-RR/static/media/food_0.2632276e.jpg",
+    "static/media/food_1.fddd2712.jpg": "/SPA-CRA-RR/static/media/food_1.fddd2712.jpg",
+    "static/media/food_2.60f10a2b.jpg": "/SPA-CRA-RR/static/media/food_2.60f10a2b.jpg",
+    "static/media/logo.f25ecdaa.png": "/SPA-CRA-RR/static/media/logo.f25ecdaa.png",
+    "static/media/menu_item1.3ed991bf.jpg": "/SPA-CRA-RR/static/media/menu_item1.3ed991bf.jpg",
+    "static/media/salt_catering.75166999.jpg": "/SPA-CRA-RR/static/media/salt_catering.75166999.jpg",
+    "static/media/sweet_catering.8a3a40f2.jpg": "/SPA-CRA-RR/static/media/sweet_catering.8a3a40f2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d38fb6fa.js",
+    "static/js/2.c49e51d8.chunk.js",
+    "static/css/main.f6b4e5c0.chunk.css",
+    "static/js/main.f08e84bc.chunk.js"
+  ]
+}
